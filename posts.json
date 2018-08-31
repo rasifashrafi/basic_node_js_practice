@@ -1,0 +1,67 @@
+{
+  "posts": [
+    {
+      "title": "Test Post",
+      "image": "https://www.cesarsway.com/sites/newcesarsway/files/styles/large_article_preview/public/The-stages-of-puppy-growth.jpg?itok=9ptPJwY8",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "testUser1",
+          "comment": "Comment #1"
+        },
+        {
+          "id": "01235",
+          "user": "testUser2",
+          "comment": "Comment #2"
+        }
+      ]
+    },
+    {
+      "title": "Test Post",
+      "image": "https://s.abcnews.com/images/Technology/gty_edsac_computer_js_150203_12x5_992.jpg",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "Nijhum Jawad",
+          "comment": " : wow!! I can't imagine......"
+        },
+        {
+          "id": "01235",
+          "user": "Anu Rahman",
+          "comment": " : It's awesome....."
+        },
+        {
+          "id": "01235",
+          "user": "Jeme Akhter",
+          "comment": " : It's unbelieable"
+        }
+      ]
+    },
+    {
+      "title": "Test Post",
+      "image": "https://www.mypalmbeachpost.com/rf/image_medium/Pub/p9/MyPalmBeachPost/2018/01/20/Images/newsEngin.20990361_Orlando---MotivAir-CDU-RDHX--002-.jpg",
+      "img_alt": "Thumbnail should be here",
+      "comments": [
+        {
+          "id": "01234",
+          "user": "Nijhum Jawad",
+          "comment": " : Technoligical change...."
+        },
+        {
+          "id": "01235",
+          "user": "Anu Rahman",
+          "comment": " : wow"
+        },
+        {
+          "id": "01235",
+          "user": "Jeme Akhter",
+          "comment": " : looking fantastic"
+        }
+      ]
+    }
+  ]
+}
+
+
